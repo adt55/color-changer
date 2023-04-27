@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "color-changer",
+    "slug": "color-changer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "color-changer"
+}
